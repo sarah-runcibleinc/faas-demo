@@ -1,0 +1,19 @@
+{
+  "name": "user-story-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/bigquery": "^4.4.0",
+    "@google-cloud/firestore": "^2.6.0",
+    "@google-cloud/functions-framework": "^1.3.2",
+    "@google-cloud/pubsub": "^1.1.5",
+    "googleapis": "^45.0.0"
+  }
+}
